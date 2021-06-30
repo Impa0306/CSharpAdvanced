@@ -1,0 +1,13 @@
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.exe
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.deps.json
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.runtimeconfig.json
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.runtimeconfig.dev.json
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.dll
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\netcoreapp3.1\CSharpAdvanced.pdb
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.csproj.AssemblyReference.cache
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.AssemblyInfoInputs.cache
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.AssemblyInfo.cs
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.dll
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.pdb
+C:\Users\impa1\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\netcoreapp3.1\CSharpAdvanced.genruntimeconfig.cache
